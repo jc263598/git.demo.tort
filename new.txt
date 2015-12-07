@@ -1,8 +1,5 @@
 helpful video
-
-
-
-
-
-
 https://www.youtube.com/watch?v=fNPLuJTTto0
+
+helpful link
+http://blog.assembla.com/AssemblaBlog/tabid/12618/bid/77264/Setting-Up-Git-on-Windows-in-Four-Easy-Steps.aspx
